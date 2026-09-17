@@ -1,6 +1,6 @@
 # Configuration Repository for the PFE Microservices
 
-This service is part of my final master's degree project (PFE), developed as part of my graduation work and practical internship in software engineering.
+This service is part of my final master's degree project (PFE), developed as part of my graduation work.
 
 ## Overview
 
